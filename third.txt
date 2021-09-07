@@ -2,3 +2,6 @@ This is the Third Change
 
 This is the fast forwarded merge
 updated for merge commit
+
+
+working with rebase
