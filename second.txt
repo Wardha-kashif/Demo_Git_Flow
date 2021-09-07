@@ -1,3 +1,5 @@
 this is the second change
 
 Change in dev brach of developer
+
+This change in merge commit
